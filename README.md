@@ -32,9 +32,12 @@ Kerala-Election-results-2021-Data-Analysis-Using-Pandas](https://github.com/evda
 
 </td><td valign="top" width="33%">
 
-<img src="   https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png          " align="left" height="70" width="" />  
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" align="left" height="70" width="" />  
 
+</td><td valign="top" width="33%">
 
+<img src="[https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png](https://git-scm.com/images/logos/1color-lightbg@2x.png)" align="left" height="70" width="" />
+  
 </td><td valign="top" width="33%">
 
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" align="left" height="70" width="" />  
